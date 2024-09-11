@@ -357,8 +357,8 @@ const i = setInterval(() => {
 
 <p>And the script worked. Like, completely. It solved the captcha and continues to solve it with each launch.</p>
 
-[<img src="https://img.youtube.com/vi/D2hHcy3Hizw/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/D2hHcy3Hizw)
+[![Watch the video](https://img.youtube.com/vi/D2hHcy3Hizw/hqdefault.jpg)](https://www.youtube.com/embed/D2hHcy3Hizw)
+
 
 <p>So, it seems like the future has arrived, old man. But not quite.</p>
 
